@@ -1,0 +1,1061 @@
+,Place,Area,Status,Rooms,Bathrooms,Facing,p_Type,Price
+0,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+1,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+2,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+3,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+4,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+5,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+6,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+7,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+8,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+9,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+10,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+11,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+12,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+13,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+14,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+15,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+16,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+17,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+18,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+19,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+20,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+21,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+22,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+23,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+24,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+25,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+26,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+27,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+28,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+29,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+30,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+31,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+32,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+33,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+34,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+35,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+36,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+37,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+38,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+39,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+40,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+41,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+42,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+43,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+44,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+45,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+46,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+47,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+48,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+49,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+50,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+51,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+52,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+53,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+54,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+55,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+56,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+57,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+58,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+59,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+60,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+61,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+62,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+63,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+64,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+65,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+66,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+67,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+68,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+69,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+70,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+71,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+72,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+73,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+74,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+75,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+76,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+77,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+78,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+79,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+80,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+81,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+82,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+83,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+84,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+85,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+86,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+87,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+88,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+89,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+90,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+91,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+92,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+93,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+94,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+95,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+96,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+97,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+98,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+99,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+100,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+101,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+102,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+103,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+104,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+105,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+106,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+107,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+108,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+109,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+110,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+111,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+112,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+113,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+114,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+115,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+116,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+117,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+118,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+119,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+120,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+121,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+122,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+123,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+124,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+125,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+126,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+127,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+128,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+129,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+130,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+131,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+132,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+133,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+134,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+135,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+136,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+137,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+138,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+139,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+140,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+141,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+142,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+143,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+144,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+145,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+146,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+147,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+148,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+149,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+150,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+151,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+152,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+153,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+154,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+155,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+156,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+157,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+158,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+159,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+160,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+161,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+162,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+163,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+164,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+165,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+166,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+167,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+168,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+169,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+170,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+171,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+172,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+173,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+174,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+175,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+176,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+177,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+178,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+179,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+180,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+181,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+182,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+183,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+184,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+185,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+186,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+187,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+188,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+189,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+190,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+191,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+192,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+193,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+194,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+195,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+196,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+197,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+198,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+199,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+200,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+201,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+202,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+203,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+204,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+205,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+206,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+207,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+208,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+209,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+210,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+211,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+212,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+213,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+214,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+215,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+216,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+217,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+218,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+219,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+220,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+221,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+222,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+223,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+224,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+225,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+226,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+227,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+228,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+229,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+230,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+231,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+232,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+233,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+234,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+235,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+236,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+237,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+238,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+239,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+240,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+241,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+242,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+243,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+244,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+245,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+246,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+247,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+248,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+249,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+250,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+251,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+252,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+253,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+254,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+255,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+256,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+257,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+258,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+259,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+260,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+261,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+262,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+263,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+264,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+265,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+266,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+267,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+268,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+269,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+270,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+271,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+272,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+273,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+274,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+275,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+276,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+277,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+278,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+279,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+280,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+281,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+282,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+283,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+284,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+285,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+286,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+287,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+288,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+289,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+290,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+291,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+292,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+293,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+294,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+295,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+296,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+297,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+298,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+299,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+300,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+301,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+302,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+303,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+304,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+305,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+306,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+307,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+308,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+309,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+310,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+311,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+312,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+313,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+314,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+315,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+316,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+317,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+318,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+319,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+320,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+321,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+322,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+323,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+324,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+325,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+326,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+327,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+328,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+329,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+330,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+331,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+332,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+333,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+334,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+335,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+336,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+337,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+338,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+339,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+340,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+341,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+342,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+343,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+344,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+345,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+346,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+347,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+348,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+349,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+350,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+351,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+352,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+353,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+354,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+355,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+356,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+357,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+358,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+359,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+360,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+361,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+362,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+363,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+364,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+365,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+366,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+367,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+368,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+369,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+370,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+371,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+372,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+373,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+374,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+375,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+376,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+377,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+378,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+379,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+380,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+381,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+382,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+383,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+384,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+385,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+386,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+387,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+388,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+389,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+390,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+391,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+392,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+393,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+394,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+395,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+396,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+397,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+398,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+399,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+400,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+401,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+402,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+403,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+404,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+405,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+406,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+407,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+408,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+409,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+410,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+411,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+412,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+413,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+414,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+415,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+416,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+417,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+418,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+419,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+420,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+421,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+422,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+423,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+424,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+425,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+426,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+427,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+428,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+429,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+430,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+431,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+432,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+433,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+434,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+435,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+436,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+437,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+438,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+439,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+440,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+441,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+442,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+443,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+444,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+445,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+446,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+447,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+448,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+449,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+450,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+451,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+452,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+453,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+454,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+455,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+456,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+457,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+458,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+459,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+460,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+461,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+462,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+463,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+464,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+465,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+466,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+467,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+468,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+469,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+470,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+471,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+472,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+473,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+474,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+475,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+476,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+477,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+478,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+479,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+480,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+481,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+482,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+483,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+484,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+485,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+486,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+487,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+488,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+489,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+490,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+491,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+492,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+493,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+494,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+495,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+496,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+497,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+498,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+499,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+500,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+501,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+502,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+503,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+504,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+505,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+506,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+507,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+508,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+509,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+510,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+511,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+512,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+513,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+514,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+515,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+516,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+517,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+518,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+519,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+520,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+521,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+522,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+523,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+524,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+525,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+526,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+527,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+528,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+529,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+530,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+531,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+532,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+533,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+534,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+535,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+536,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+537,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+538,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+539,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+540,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+541,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+542,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+543,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+544,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+545,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+546,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+547,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+548,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+549,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+550,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+551,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+552,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+553,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+554,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+555,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+556,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+557,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+558,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+559,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+560,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+561,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+562,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+563,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+564,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+565,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+566,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+567,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+568,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+569,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+570,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+571,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+572,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+573,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+574,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+575,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+576,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+577,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+578,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+579,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+580,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+581,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+582,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+583,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+584,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+585,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+586,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+587,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+588,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+589,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+590,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+591,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+592,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+593,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+594,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+595,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+596,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+597,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+598,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+599,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+600,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+601,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+602,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+603,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+604,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+605,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+606,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+607,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+608,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+609,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+610,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+611,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+612,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+613,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+614,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+615,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+616,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+617,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+618,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+619,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+620,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+621,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+622,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+623,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+624,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+625,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+626,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+627,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+628,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+629,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+630,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+631,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+632,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+633,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+634,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+635,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+636,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+637,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+638,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+639,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+640,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+641,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+642,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+643,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+644,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+645,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+646,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+647,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+648,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+649,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+650,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+651,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+652,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+653,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+654,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+655,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+656,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+657,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+658,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+659,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+660,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+661,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+662,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+663,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+664,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+665,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+666,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+667,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+668,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+669,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+670,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+671,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+672,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+673,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+674,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+675,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+676,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+677,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+678,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+679,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+680,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+681,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+682,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+683,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+684,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+685,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+686,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+687,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+688,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+689,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+690,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+691,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+692,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+693,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+694,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+695,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+696,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+697,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+698,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+699,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+700,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+701,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+702,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+703,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+704,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+705,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+706,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+707,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+708,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+709,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+710,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+711,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+712,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+713,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+714,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+715,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+716,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+717,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+718,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+719,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+720,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+721,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+722,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+723,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+724,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+725,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+726,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+727,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+728,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+729,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+730,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+731,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+732,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+733,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+734,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+735,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+736,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+737,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+738,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+739,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+740,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+741,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+742,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+743,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+744,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+745,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+746,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+747,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+748,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+749,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+750,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+751,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+752,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+753,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+754,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+755,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+756,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+757,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+758,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+759,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+760,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+761,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+762,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+763,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+764,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+765,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+766,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+767,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+768,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+769,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+770,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+771,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+772,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+773,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+774,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+775,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+776,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+777,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+778,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+779,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+780,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+781,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+782,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+783,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+784,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+785,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+786,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+787,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+788,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+789,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+790,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+791,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+792,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+793,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+794,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+795,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+796,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+797,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+798,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+799,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+800,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+801,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+802,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+803,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+804,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+805,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+806,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+807,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+808,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+809,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+810,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+811,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+812,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+813,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+814,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+815,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+816,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+817,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+818,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+819,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+820,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+821,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+822,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+823,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+824,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+825,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+826,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+827,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+828,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+829,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+830,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+831,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+832,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+833,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+834,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+835,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+836,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+837,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+838,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+839,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+840,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+841,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+842,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+843,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+844,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+845,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+846,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+847,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+848,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+849,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+850,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+851,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+852,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+853,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+854,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+855,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+856,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+857,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+858,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+859,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+860,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+861,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+862,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+863,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+864,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+865,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+866,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+867,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+868,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+869,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+870,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+871,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+872,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+873,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+874,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+875,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+876,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+877,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+878,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+879,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+880,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+881,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+882,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+883,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+884,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+885,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+886,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+887,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+888,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+889,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+890,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+891,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+892,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+893,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+894,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+895,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+896,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+897,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+898,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+899,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+900,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+901,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+902,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+903,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+904,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+905,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+906,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+907,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+908,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+909,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+910,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+911,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+912,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+913,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+914,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+915,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+916,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+917,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+918,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+919,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+920,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+921,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+922,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+923,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+924,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+925,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+926,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+927,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+928,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+929,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+930,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+931,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+932,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+933,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+934,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+935,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+936,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+937,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+938,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+939,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+940,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+941,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+942,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+943,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+944,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+945,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+946,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+947,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+948,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+949,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+950,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+951,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+952,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+953,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+954,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+955,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+956,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+957,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+958,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+959,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+960,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+961,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+962,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+963,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+964,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+965,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+966,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+967,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+968,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+969,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+970,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+971,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+972,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+973,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+974,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+975,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+976,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+977,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+978,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+979,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+980,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+981,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+982,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+983,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+984,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+985,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+986,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+987,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+988,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+989,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+990,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+991,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+992,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+993,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+994,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+995,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+996,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+997,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+998,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+999,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+1000,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+1001,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+1002,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+1003,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+1004,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+1005,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+1006,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+1007,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+1008,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+1009,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+1010,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+1011,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+1012,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+1013,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+1014,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+1015,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+1016,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+1017,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+1018,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+1019,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+1020,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+1021,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+1022,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+1023,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+1024,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+1025,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+1026,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+1027,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+1028,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+1029,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+1030,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+1031,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+1032,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+1033,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+1034,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+1035,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+1036,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+1037,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+1038,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+1039,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0
+1040,Kesarapalli,7200,New,0,0,None,Residential Plot,252.0
+1041,Kesarapalli,1944,New,0,0,None,Residential Plot,68.04
+1042,Gannavaram,1266,Ready to move,2,2,None,Apartment,45.57
+1043,Poranki,1587,Ready to move,3,3,West,Apartment,55.5
+1044,Kankipadu,1560,Resale,0,0,East,Residential Plot,15.5
+1045,Poranki,1450,Ready to move,2,2,None,Apartment,48.0
+1046,Kankipadu,1290,Under Construction,2,2,NorthEast,Independent House,50.0
+1047,Poranki,1200,Ready to move,2,2,None,Apartment,40.0
+1048,Gannavaram,1663,Ready to move,3,3,East,Apartment,59.86
+1049,Gunadala,1500,Ready to move,3,3,None,Independent Floor,56.0
+1050,Gollapudi,2062,Ready to move,3,3,None,Apartment,89.0
+1051,Enikepadu,1250,Ready to move,2,2,None,Apartment,39.0
+1052,Benz Circle,1350,Ready to move,2,2,East,Independent House,59.0
+1053,Vidhyadharpuram,1600,Under Construction,3,3,West,Independent Floor,95.0
+1054,Penamaluru,3700,Ready to move,6,7,None,Independent House,110.00000000000001
+1055,Kankipadu,1782,Resale,0,0,None,Residential Plot,16.83
+1056,Poranki,1800,Resale,0,0,West,Residential Plot,33.0
+1057,Kankipadu,1500,Resale,0,0,None,Residential Plot,20.0
+1058,Benz Circle,2317,Under Construction,3,3,East,Apartment,166.0
+1059,Gannavaram,1650,Ready to move,3,3,None,Apartment,72.0

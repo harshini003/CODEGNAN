@@ -1,0 +1,24 @@
+-->calculate gini for split and
+GINI CALCULATION -->CART
+students=30, play football=15-->2+13
+female->10   male->20
+
+play football         play football(13)
+(2)->0.2(2/10)          ->13/20->0.65
+
+->calculate gini for sub node(p^2+q^2)-->p-->success,q-->failure
+female=0.2*0.2(play)+0.8*0.8(npt play)=0.68
+male=0.65*0.65()+0.35*0.35()=0.55
+cal wt gini for split gender=10/30*0.68+20/30*0.55->0.59
+--
+
+cal wt gini for split classes=
+   class AI: students=14, football play=6(6/14=0.43)
+   class DS: student=16, football play=9(9/16=0.56)
+   
+   classAI=0.51==0.43*0.43+0.57*0.57
+   classDs=0.51==0.56*0.56+0.44*0.44
+   
+   split gender=
+------
+ID3 ALGO
